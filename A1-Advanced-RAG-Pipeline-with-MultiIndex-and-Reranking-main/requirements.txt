@@ -1,0 +1,9 @@
+openai
+langchain
+langchain-community
+pymupdf
+python-dotenv
+tiktoken
+faiss-gpu
+chromadb
+sentence-transformers

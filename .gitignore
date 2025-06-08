@@ -1,0 +1,5 @@
+# Ignore .env file
+.env
+3-Langgraph/my_chroma_db/
+venv/
+

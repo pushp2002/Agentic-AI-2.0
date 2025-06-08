@@ -52,4 +52,4 @@ All three FAISS index types were tested and compared based on retrieval speed an
 
 
 
-## By Shohrab Haque Shahil
+## By Pushpender Kumar

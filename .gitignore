@@ -3,3 +3,4 @@
 3-Langgraph/my_chroma_db/
 venv/
 
+.env

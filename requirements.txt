@@ -21,3 +21,10 @@ pinecone
 langchain_pinecone
 langchain_huggingface
 langchain_google_genai
+
+
+langchain_core
+langgraph
+protobuf==3.20.3
+IPython
+streamlit

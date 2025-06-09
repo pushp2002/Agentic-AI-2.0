@@ -1,0 +1,12 @@
+langchain_google_genai
+langchain_huggingface
+langchain_community
+langchain
+pypdf
+chromadb
+langchain_core
+langgraph
+pydantic
+protobuf==3.20.3
+IPython
+streamlit
